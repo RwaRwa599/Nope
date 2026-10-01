@@ -1,0 +1,6 @@
+---
+description: Route every request through the nope skill before acting
+alwaysApply: true
+---
+
+Before acting on any request, read the `nope` skill (`~/.cursor/skills/nope/SKILL.md`) and its state file (`<STATE_FILE>`). If the state is enabled, route the request first and start the reply with the route line. Whatever the state, apply the nope action guard and decision log.

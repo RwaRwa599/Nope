@@ -1,0 +1,6 @@
+# Decision log
+
+## <date>: <what changed>
+- Decided by: user | agent | agent, approved by user
+- Reasoning (user's words): ...
+- Verified by: ...
