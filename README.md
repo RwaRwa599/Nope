@@ -1,4 +1,6 @@
-# nope
+# Nope
+
+*your AI agent says do it urself u lazy ah*
 
 An agent skill that keeps you in charge of your own thinking. Before the agent acts, nope sorts each request into one of five routes: do it, grill you on what you want, tell you to do it yourself, guide you with questions, or gate a change until you can defend it. An action guard stops for your yes before anything risky, even when nope is off.
 
